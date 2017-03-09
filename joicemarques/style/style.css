@@ -2,32 +2,35 @@ body {
 	background-color: #FFA07A;
 }
 
-#div1 {
+.div1 {
 	background-color: rgba(214, 133, 59, 0.4);
 	float: left;
 	width: 100%;
 	font-family:calibri;
 }
 
-#div2 {
+.div2 {
 	background-color: rgba(215, 133, 59, 0.4);
 	float: left;
 	width: 100%;
 	height:400px;
 }
 
-#div1:hover{
+.div1:hover{
 	background-color: rgba(215, 44, 104, 0.4);
 }
 
+.menu {
+}
+
+.footer {
+	text-align: center;
+}
 
 h1 {
 	color: white;
 }
 
-#sum {
-	color: white;
-}
 
 a {
 	color: white;
